@@ -12,3 +12,28 @@ git touch etc (Modificaciones)
 git add. 
 git commit -m "message"
 git push -u origin main 
+
+
+
+Help other collaborate
+
+git fetch origin   /// that pull to work space
+
+git branch -r      /// show de name the others branch
+
+git checkout origin/<name branch collaborate>    /// pointer the commit what we wan help
+
+git switch -        /// back to previous branch
+
+git branch          /// list of branch in work space
+
+git switch <name branch collaborate>  /// get in brach in work space
+
+MAKE CHANGES
+
+
+git add name_file
+
+git commit 
+
+git push origin master      /// push to github

@@ -1,0 +1,17 @@
+Formato de Documento de Analisis
+(Titulo-Fecha-ElaboradoPor)
+
+Introduccion
+Propósito
+
+Ambito del sistema 
+¿Que puntos se debe tomar en cuenta?
+
+
+Definiciones Acrónimos y Abreviaturas
+Descripción General
+Perspectiva del Producto
+
+Suposiciones y Dependencias
+Requisitos especifícos (Historias de Usuario)
+(Actor----Historia----RequerimientoEspecífico)

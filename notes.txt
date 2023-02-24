@@ -15,3 +15,22 @@ Perspectiva del Producto
 Suposiciones y Dependencias
 Requisitos especifícos (Historias de Usuario)
 (Actor----Historia----RequerimientoEspecífico)
+
+
+Requisitos de Rendimiento
+
+Restriciones de diseño
+
+Atributos del sistema
+
+Mantenibilidad (Flexibilidad-Testeo)
+
+Escalabilidad
+
+Disponibilidad
+
+Extensibilidad
+
+Seguridad
+
+Portabilidad
